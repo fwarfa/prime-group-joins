@@ -1,8 +1,8 @@
 # prime-group-joins
 
 - Answered the following questions with the data
-   from  https://github.com/fwarfa/sql-join-1-m-challenge : 
-   
+   from  https://github.com/fwarfa/sql-join-challenge : 
+
     1. Get all customers and their addresses.
     2. Get all orders and their line items (orders, quantity and product).
     3. Which warehouses have cheetos?
