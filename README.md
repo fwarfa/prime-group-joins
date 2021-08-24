@@ -2,7 +2,7 @@
 
 - Answered the following questions with the data
    from  https://github.com/fwarfa/sql-join-challenge : 
-
+    - BASE MODE
     1. Get all customers and their addresses.
     2. Get all orders and their line items (orders, quantity and product).
     3. Which warehouses have cheetos?
@@ -11,3 +11,8 @@
     6. How many customers do we have?
     7. How many products do we carry?
     8. What is the total available on-hand quantity of diet pepsi?
+
+    - STRETCH GOALS
+    9. How much was the total cost for each order?
+    10. How much has each customer spent in total?
+    11. How much has each customer spent in total? Customers who have spent $0 should still show up in the table. It should say 0, not NULL (research coalesce).
